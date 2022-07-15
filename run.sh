@@ -1,2 +1,2 @@
-#!/bin/bash
+#!/bin/sh
 echo "HEllo from run.sh!"
